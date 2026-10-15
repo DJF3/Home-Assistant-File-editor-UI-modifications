@@ -1,6 +1,6 @@
 # Home Assistant File editor customization
 
-It updates the "File editor" app CSS to make the file/folder list way easier to read and use.
+It updates the "[File editor](https://www.home-assistant.io/common-tasks/os/#installing-and-using-the-file-editor-app)" app CSS to make the file/folder list way easier to read and use.
 
 - Reduces spacing in the File Editor sidebar (file/folder rows) so you most likely don't have to scroll
 - Colors filenames (.yaml, .json, .sh) **blue**.
