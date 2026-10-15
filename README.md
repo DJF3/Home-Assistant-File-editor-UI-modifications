@@ -6,6 +6,7 @@ It updates the "File editor" app CSS to make the file/folder list way easier to 
 - Colors filenames (.yaml, .json, .sh) **blue**.
 - Adds/updates the changes to File Editor's installed `style.css`, between `BEGIN_CUSTOM_OVERRIDES` and `END_CUSTOM_OVERRIDES` markers.
 
+![Home Assistant File Editor before-after](screenshot/file-editor-mod-compare.png)
 
 
 Because this is a patch, these modifications are removed after each:
